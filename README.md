@@ -1,12 +1,13 @@
 # The Lore Store
 
 ## PR Process
-1. Check that work was done on a branch seperate from main
-2. Work done should be specific to the issue you're working on
+1. Always pull the most recent version of main and resolve any merge conflicts before creating a PR 
+2. Check that work was done on a branch seperate from main
+3. Work done should be specific to the issue you're working on
 If you have to work out of scope make a new branch
-3. After creating a PR you should request review from someone on the team (Merging requires one approval)
-4. After your branch has been approved, you can merge it into main
-5. After your branch has been merged you should test production for any bugs associated with your code
+4. After creating a PR you should request review from someone on the team (Merging requires one approval)
+5. After your branch has been approved, you can merge it into main
+6. After your branch has been merged you should test production for any bugs associated with your code
 
 ## Reviewer Process
 1. Pull down and checkout the branch you are reviewing and scan over for any visual or functional bugs
